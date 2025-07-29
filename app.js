@@ -24,8 +24,8 @@ app.use(cookieParser());
 const allowOrigin = [
     "http://localhost:3000",
     'http://localhost:5173',
-    process.env.BASE_URL,
-
+    "https://city-scouts-frontend.vercel.app",
+    
 ].filter(Boolean);
 
 app.use(cors({

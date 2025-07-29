@@ -135,20 +135,18 @@ const logout = async(req, res)=>{
     })
 }
 
-const sendTokenResponse = (user, statusCode,  res)=>{
+const sendTokenResponse = (user, statusCode, res) => {
     const token = user.getSignedJwtToken();
 
     const option = {
         expires: new Date(
-            Date.now() + process.env.JWT_COOKIE_EXPIRE* 24 * 60 * 60 * 1000
+            Date.now() + process.env.JWT_COOKIE_EXPIRE * 24 * 60 * 60 * 1000
         ),
         httpOnly: true,
-        sameSite: 'Strict',
-    }
+        secure: true,          
+        sameSite: 'None'        
+    };
 
-    if(process.env.NODE_ENV == 'production'){
-        option.secure = true;
-    }
     user.password = undefined;
 
     res
@@ -157,8 +155,9 @@ const sendTokenResponse = (user, statusCode,  res)=>{
         .json({
             success: true,
             data: user,
-        })
-}
+        });
+};
+
 
 
 module.exports = {

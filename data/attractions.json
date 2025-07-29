@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Chandigarh Sangeet Sammelan 2026",
+    "description": "The annual 50th Chandigarh Sangeet Sammelan is a three-day classical music festival showcasing vocal and instrumental performances from leading Indian classical artists. Organized by Pracheen Kala Kendra and Chandigarh Cultural Affairs, the event attracts seasoned connoisseurs and classical music lovers from across the region.",
+    "category": "Entertainment",
+    "location": {
+      "address": "M.L. Koser Auditorium, Pracheen Kala Kendra, Sector 35-B",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [76.7628, 30.7295]
+      }
+    },
+    "date": {
+      "start": "2026-11-10T00:00:00.000Z",
+      "end": "2026-11-12T00:00:00.000Z"
+    },
+    "time": {
+      "start": "6:00 PM",
+      "end": "9:00 PM"
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Sangeet+Sammelan",
+        "altText": "Sangeet+Sammelan image",
+        "publicId": "sangeet_sammelan"
+      }
+    ],
+    "mainImage": "https://via.placeholder.com/800x600?text=Sangeet+Sammelan+Banner",
+    "mainImagePublicId": "sangeet_sammelan_banner",
+    "ticketPrice": 0,
+    "organizer": {
+      "name": "Pracheen Kala Kendra & Chandigarh Cultural Affairs",
+      "contact": {
+        "email": "contact@pracheenkalakendra.org",
+        "phone": "+91-172-2771234",
+        "website": "https://pracheenkalakendra.org"
+      }
+    },
+    "features": {
+      "familyFriendly": true,
+      "accessible": true,
+      "parking": true,
+      "outdoor": false,
+      "free": true
+    },
+    "isFeatured": true,
+    "isDeleted": false
+  }
+  
+  
+]

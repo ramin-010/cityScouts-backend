@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Rock Garden of Chandigarh",
+    "description": "The Rock Garden of Chandigarh, created by Nek Chand, is a famous 40-acre sculpture garden built entirely from recycled industrial and urban waste. It features interconnected courtyards filled with hundreds of pottery-covered sculptures of dancers, musicians, animals and cultural figures, along with waterfalls and artistic walkways. The garden attracts thousands of visitors daily and is open from 5:00 AM to 9:00 PM with free entry.",
+    "rating": 4.7,
+    "slug": "A-rock-garden-of-chandigarh"
+  },
+  {
+    "name": "Sukhna Lake",
+    "description": "Sukhna Lake is a 3 km² man-made reservoir at the foothills of the Shivalik range, created in 1958. This rainfed lake offers boating, a waterfront promenade and scenic views of the Himalayas. It has become one of Chandigarh's top attractions for leisurely boating, jogging and bird-watching. The promenade and parks around the lake provide a pleasant recreational space.",
+    "rating": 4.8,
+    "slug": "A-sukhna-lake"
+  },
+  {
+    "name": "Zakir Hussain Rose Garden",
+    "description": "Zakir Hussain Rose Garden is Asia's largest rose garden, established in 1967. Spread over 30 acres, it is home to 50,000 rose plants of 1600+ varieties. Named after former President Zakir Husain, the garden also features an annual Chrysanthemum show and collections of medicinal herbs and bonsai trees. Its vibrant flower beds and winding paths make it a popular spot for picnics and leisurely walks.",
+    "rating": 4.5,
+    "slug": "A-zakir-hussain-rose-garden"
+  },
+  {
+    "name": "Government Museum and Art Gallery",
+    "description": "The Government Museum and Art Gallery in Chandigarh (established 1968) houses rare Gandharan sculptures, Pahari and Mughal miniature paintings, and ancient artifacts. It is known for its rich collection of early Indian art and archaeological exhibits. Entry fee is ₹30 for adults, free for children. This museum is a key cultural institution in Chandigarh.",
+    "rating": 4.3,
+    "slug": "A-government-museum-and-art-gallery"
+  },
+  {
+    "name": "Open Hand Monument",
+    "description": "The Open Hand Monument is a 26-meter tall rotating concrete sculpture designed by Le Corbusier. It symbolizes \"the hand to give and the hand to take, peace and prosperity to all\". It is part of the Capitol Complex (a UNESCO World Heritage site) and is an emblem of Chandigarh’s modernist architecture. The rotating sculpture on its pedestal is one of the city’s most iconic landmarks.",
+    "rating": 4.6,
+    "slug": "A-open-hand-monument"
+  },
+  {
+    "name": "Gurudwara Nada Sahib",
+    "description": "Gurudwara Nada Sahib, located on the Chandigarh-Zirakpur highway, is a Sikh shrine commemorating Guru Gobind Singh's visit. It features a holy sarovar (tank) where devotees bathe, a langar hall serving free meals, and a gurudwara with typical Sikh architecture. It is one of the most revered gurdwaras in the region.",
+    "rating": 4.9,
+    "slug": "A-gurudwara-nada-sahib"
+  },
+  {
+    "name": "Nexus Elante Mall",
+    "description": "Nexus Elante Mall is one of North India’s largest shopping malls, with over 200 stores. Opened in 2013, it offers international and Indian fashion brands, a large food court, a multiplex cinema, and entertainment zones. The mall also features restaurants, gaming areas and events, making it a major leisure destination.",
+    "rating": 4.6,
+    "slug": "A-nexus-elante-mall"
+  },
+  {
+    "name": "Capitol Complex",
+    "description": "The Capitol Complex in Sector 1, Chandigarh, is a UNESCO World Heritage ensemble designed by Le Corbusier. It includes the Assembly building, High Court, Secretariat and Open Hand Monument. The complex exemplifies modernist architecture and city planning. Visitors can tour the grounds to see the innovative design of these government buildings.",
+    "rating": 4.5,
+    "slug": "A-capitol-complex"
+  },
+  {
+    "name": "Tagore Theatre",
+    "description": "Tagore Theatre (Sector 18, Chandigarh) is a well-known cultural venue and theatre hall. Opened in 1964, it hosts plays, dance performances, concerts and other cultural events. The facility features a 480-seat auditorium and acoustics suitable for music and drama, making it a key hub for Chandigarh's performing arts.",
+    "rating": 4.6,
+    "slug": "A-tagore-theatre"
+  },
+  {
+    "name": "Yadavindra Mughal Gardens (Pinjore)",
+    "description": "Also known as Pinjore Gardens, this 17th-century terraced complex features Mughal-style pavilions, fountains, and manicured lawns that cascade down seven levels. The annual Pinjore Heritage Festival and illuminated evening shows make it a year-round draw.",
+    "rating": 4.5,
+    "slug": "A-yadavindra-mughal-gardens-pinjore"
+  },
+  {
+    "name": "Morni Hills Nature Trails",
+    "description": "The only hill station in Haryana, Morni Hills offers pine-clad trekking routes, panoramic viewpoints, and twin lakes (Tikkar Taal). Birdwatchers spot pheasants and Himalayan bulbuls along the forest trails. The scenic treks provide a cool retreat from the plains and are popular for weekend hikes.",
+    "rating": 4.6,
+    "slug": "A-morni-hills-nature-trails"
+  },
+  {
+    "name": "VR Punjab Mall",
+    "description": "Formerly North Country Mall, this 2 million-sq-ft lifestyle destination (now VR Mohali) offers a wide range of fashion and electronics brands, a large food court, an INOX multiplex, and indoor VR gaming zones.",
+    "rating": 4.5,
+    "slug": "A-vr-punjab-mall"
+  },
+  {
+    "name": "Gurudwara Sri Singh Shaheedan",
+    "description": "Gurudwara Sri Singh Shaheedan (Mohali) commemorates 31 Sikh soldiers who were martyred during World War I. It features a domed shrine, martyrs’ memorial pillars and a holy sarovar. The site is revered by the Sikh community and attracts devotees for daily prayers and commemorations.",
+    "rating": 4.7,
+    "slug": "A-gurudwara-sri-singh-shaheedan"
+  },
+  {
+    "name": "Christ Church, Kasauli",
+    "description": "Christ Church in Kasauli is a historic Anglican church built in the 1920s. It features neo-Gothic architecture with a wooden altar and stained glass windows. Situated at an elevation of 1,905 meters, it offers scenic views of the surrounding hills. The church holds regular services and is a popular pilgrimage site for Christians in the region.",
+    "rating": 4.5,
+    "slug": "A-christ-church-kasauli"
+  },
+  {
+    "name": "Manki Point (Hanuman Temple)",
+    "description": "Perched on a hill in Kasauli, Manki Point has a small Shiva temple and a prominent Hanuman temple, attracting pilgrims. The hilltop location offers sweeping views of the surrounding Shivalik range. Devotees climb the hill by steps, and the temple hosts religious festivities during Hanuman Jayanti.",
+    "rating": 4.6,
+    "slug": "A-manki-point-hanuman-temple"
+  },
+  {
+    "name": "Chandigarh War Memorial",
+    "description": "Set amidst the Bougainvillea Garden, this granite memorial lists the names of 8,500 soldiers from Punjab, Haryana, Himachal and Chandigarh martyred since 1947. Eternal flames and landscaped paths create a solemn atmosphere.",
+    "rating": 4.4,
+    "slug": "A-chandigarh-war-memorial"
+  },
+  {
+    "name": "Fateh Burj (Banda Singh Bahadur Memorial)",
+    "description": "Standing 328 ft tall, this victory tower in Chappar Chiri marks Sikh General Banda Singh Bahadur’s 1710 defeat of the Mughals. Panoramic elevators lead to an observation deck overlooking the Mohali plains.",
+    "rating": 4.5,
+    "slug": "A-fateh-burj-banda-singh-bahadur-memorial"
+  }
+]

@@ -1,0 +1,3114 @@
+[
+  {
+    "_id": {
+      "$oid": "687633d120a9aed11b7c7921"
+    },
+    "name": "Japanese Garden",
+    "description": "Built in 2014, the Japanese Garden in Chandigarh spans 13 acres and offers a tranquil space with traditional Japanese landscaping. It features a large ornamental pond, pagoda towers, waterfalls, and a Zen garden area with meditation pebbles and bonsai. The garden has walking paths, stone lanterns, and a small Japanese-style bridge over the pond. It is open daily from 5:00 AM to 9:00 PM with free entry.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 31A, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.8059,
+          30.716
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699241d9c6420d6ef1751"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Japanese Plants",
+      "Pagoda Towers",
+      "Waterfalls",
+      "Zen Garden"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:17.569Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:26.659Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d120a9aed11b7c7926"
+    },
+    "name": "Rock Garden of Chandigarh",
+    "description": "The Rock Garden of Chandigarh, created by Nek Chand, is a famous 40-acre sculpture garden built entirely from recycled industrial and urban waste. It features interconnected courtyards filled with hundreds of pottery-covered sculptures of dancers, musicians, animals and cultural figures, along with waterfalls and artistic walkways. The garden attracts thousands of visitors daily and is open from 5:00 AM to 9:00 PM with free entry.",
+    "category": [
+      "Parks",
+      "Landmarks"
+    ],
+    "location": {
+      "address": "Sector 1, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.807,
+          30.752
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699251d9c6420d6ef1751"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.7,
+    "features": [
+      "Rock Sculptures",
+      "Waterfalls",
+      "Art Exhibits",
+      "Recycled Materials"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:17.743Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:26.796Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d120a9aed11b7c7928"
+    },
+    "name": "Sukhna Lake",
+    "description": "Sukhna Lake is a 3 km² man-made reservoir at the foothills of the Shivalik range, created in 1958. This rainfed lake offers boating, a waterfront promenade and scenic views of the Himalayas. It has become one of Chandigarh's top attractions for leisurely boating, jogging and bird-watching. The promenade and parks around the lake provide a pleasant recreational space.",
+    "category": [
+      "Landmarks",
+      "Parks"
+    ],
+    "location": {
+      "address": "East of Sector 1, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.81666,
+          30.73333
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699251d9c6420d6ef1753"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.8,
+    "features": [
+      "Boating",
+      "Jogging Tracks",
+      "Bird Watching"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:17.838Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-20T15:41:48.665Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d120a9aed11b7c792a"
+    },
+    "name": "Zakir Hussain Rose Garden",
+    "description": "Zakir Hussain Rose Garden is Asia's largest rose garden, established in 1967. Spread over 30 acres, it is home to 50,000 rose plants of 1600+ varieties. Named after former President Zakir Husain, the garden also features an annual Chrysanthemum show and collections of medicinal herbs and bonsai trees. Its vibrant flower beds and winding paths make it a popular spot for picnics and leisurely walks.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 16, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.78194,
+          30.74611
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699251d9c6420d6ef1755"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.5,
+    "features": [
+      "Rose Varieties",
+      "Bonsai Collection",
+      "Seasonal Flower Shows"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:17.931Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:26.938Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c792c"
+    },
+    "name": "Government Museum and Art Gallery",
+    "description": "The Government Museum and Art Gallery in Chandigarh (established 1968) houses rare Gandharan sculptures, Pahari and Mughal miniature paintings, and ancient artifacts. It is known for its rich collection of early Indian art and archaeological exhibits. Entry fee is ₹30 for adults, free for children. This museum is a key cultural institution in Chandigarh.",
+    "category": [
+      "Museums"
+    ],
+    "location": {
+      "address": "Rai Bahadur Harnam Das Shastri Marg, Sector 10, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.8033,
+          30.7495
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699251d9c6420d6ef1757"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "10:00-17:00",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 30,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.3,
+    "features": [
+      "Gandharan Sculptures",
+      "Miniature Paintings",
+      "Sikh Artifacts"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.017Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.010Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c792e"
+    },
+    "name": "International Dolls Museum",
+    "description": "The International Dolls Museum in Chandigarh (Sector 23B) is India's first dolls museum, showcasing over 1000 dolls from around the world. Highlights include a 'Doll Village' with miniature scenes depicting different cultures. The museum promotes cultural diversity and art through its doll collection. Entry fee is ₹10 for adults; free for children.",
+    "category": [
+      "Museums"
+    ],
+    "location": {
+      "address": "Bal Bhawan, Sector 23B, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.77092,
+          30.74114
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699251d9c6420d6ef1759"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "10:00-16:30",
+      "wednesday": "10:00-16:30",
+      "thursday": "10:00-16:30",
+      "friday": "10:00-16:30",
+      "saturday": "10:00-16:30",
+      "sunday": "10:00-16:30"
+    },
+    "ticketPrice": {
+      "adult": 10,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.1,
+    "features": [
+      "World Dolls Collection",
+      "Thematic Village Dioramas",
+      "Educational Exhibits"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.113Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.089Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7930"
+    },
+    "name": "Children Traffic Park",
+    "description": "The Children Traffic Park (Sector 23A) is an educational park designed to teach road safety. It features miniature traffic intersections, road signs, signals, and pedestrian crossings. Children can ride cycles and drive small cars on scaled roads to learn traffic rules in a playful environment. The park also provides fun vehicles and cycles for kids.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 23A, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.7802,
+          30.74
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699261d9c6420d6ef175b"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Mini Road Network",
+      "Traffic Signage",
+      "Cycle Rentals"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.203Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.159Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7932"
+    },
+    "name": "Open Hand Monument",
+    "description": "The Open Hand Monument is a 26-meter tall rotating concrete sculpture designed by Le Corbusier. It symbolizes \"the hand to give and the hand to take, peace and prosperity to all\". It is part of the Capitol Complex (a UNESCO World Heritage site) and is an emblem of Chandigarh’s modernist architecture. The rotating sculpture on its pedestal is one of the city’s most iconic landmarks.",
+    "category": [
+      "Landmarks"
+    ],
+    "location": {
+      "address": "Capitol Complex, Sector 1, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.80472,
+          30.75917
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699261d9c6420d6ef175d"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.6,
+    "features": [
+      "Rotating Sculpture",
+      "Symbolic Landmark",
+      "UNESCO Heritage"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.288Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.228Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7934"
+    },
+    "name": "Sukhna Wildlife Sanctuary",
+    "description": "Sukhna Wildlife Sanctuary is located northeast of Sukhna Lake at the foothills of the Shivalik hills. Spanning over 13 sq km, it hosts diverse wildlife including nilgai, wild boar, jackal and over 200 bird species. Its hilly forest and the seasonal Sukhna stream make it popular for hiking, birdwatching and enjoying nature. The sanctuary’s serene environment attracts nature lovers and trekkers.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "North-East of Sukhna Lake, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.84027,
+          30.76951
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699261d9c6420d6ef175f"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Hiking Trails",
+      "Bird Watching",
+      "Nilgai Sightings"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.366Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.297Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7936"
+    },
+    "name": "Botanical Garden, Chandigarh",
+    "description": "Chandigarh Botanical Garden (Sector 26) spans about 70 acres and showcases diverse plant collections. It includes sections for flowering plants, medicinal herbs, ferns, cactus and succulents, and a Chinese bonsai garden. Developed by the National Botanical Research Institute, it features water bodies, a deer park and a greenhouse.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 26, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.799,
+          30.735
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699261d9c6420d6ef1761"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.1,
+    "features": [
+      "Cactus and Succulents",
+      "Bonsai Collection",
+      "Medicinal Plants"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.493Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.368Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7938"
+    },
+    "name": "Shanti Kunj Park",
+    "description": "Shanti Kunj Park (Sector 36B, Chandigarh) is a tranquil garden known for its stream with small islands, sculptures and Buddha idols. The park features five islets connected by bamboo walkways and seating, making it a peaceful spot for relaxation and scenic views of the lake.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 36B, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.76,
+          30.739
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699261d9c6420d6ef1763"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Island Streams",
+      "Buddha Statue",
+      "Scenic Views"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.584Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.443Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c793a"
+    },
+    "name": "Terraced Garden",
+    "description": "Terraced Garden (Sector 33, Chandigarh) is a popular flower garden with ornamented terraces and fountains. It is famous for hosting the Chrysanthemum Festival and has manicured lawns, an open-air theater and a musical fountain. The garden's cascading water features and variety of plants make it a pleasant spot for families and evening strolls.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 33, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.77,
+          30.735
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699271d9c6420d6ef1765"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.1,
+    "features": [
+      "Musical Fountain",
+      "Flower Terrace",
+      "Chrysanthemum Show"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.671Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.512Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c793c"
+    },
+    "name": "Butterfly Park",
+    "description": "The Butterfly Park (Le Jardin, Sector 26, Chandigarh) is a landscaped garden designed to attract butterflies. It features ponds, fountains and a variety of flowering plants that support over 35 butterfly species. Opened in 2015, it provides a peaceful retreat and nature education for visitors, with benches and information boards about butterfly conservation.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 26, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.799,
+          30.735
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699271d9c6420d6ef1767"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.1,
+    "features": [
+      "Butterfly Habitat",
+      "Nectar Gardens",
+      "Water Features"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.750Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.597Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c793e"
+    },
+    "name": "Garden of Silence",
+    "description": "The Garden of Silence (Sector 36, Chandigarh) features a large meditative Buddha statue on a lake pond. Set on a small hillock, the landscaped garden is intended for yoga and meditation and offers panoramic views of Sukhna Lake and the Shivalik hills. The serene environment and quiet pathways make it a favored spot for relaxation and reflection.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 36B, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.758,
+          30.73
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699271d9c6420d6ef1769"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Buddha Statue",
+      "Meditation Terrace",
+      "Lake Views"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.833Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.688Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7940"
+    },
+    "name": "Garden of Fragrance",
+    "description": "The Garden of Fragrance (Sector 36, Chandigarh) is renowned for its aromatic flowers such as jasmine, roses and champa. Designed in a Mughal layout, it offers fragrant walkways and landscaped lawns, making it popular for evening strolls. Visitors can enjoy scented plants and shaded terraces in a tranquil setting.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 36B, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.75715,
+          30.73263
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699271d9c6420d6ef176b"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4,
+    "features": [
+      "Fragrant Plants",
+      "Walking Paths",
+      "Evening Ambience"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:18.915Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.765Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d220a9aed11b7c7942"
+    },
+    "name": "Garden of Palms",
+    "description": "Garden of Palms (Sector 42C, Chandigarh) is a park featuring 21 species of palm trees. Inaugurated in 2015, it includes landscaped lawns, fountains and walking paths among diverse palm varieties. The garden’s orderly rows of palms and shaded seating make it a pleasant spot for a leisurely walk.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 42C, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.747,
+          30.739
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699271d9c6420d6ef176d"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Variety of Palms",
+      "Walking Trails",
+      "Water Fountains"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.001Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.832Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7944"
+    },
+    "name": "Bougainvillea Garden",
+    "description": "Bougainvillea Garden (Sector 14, Chandigarh) spans 11 acres and is famous for colorful bougainvillea vines. It features pergolas, arches and trellises covered with bougainvillea flowers of more than 50 varieties. The landscaped park provides shady walkways and is a bright attraction during the flowering season.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 14, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.79,
+          30.748
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699281d9c6420d6ef176f"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.3,
+    "features": [
+      "Bougainvillea Arches",
+      "Colorful Vines",
+      "Pavilions"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.081Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.902Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7946"
+    },
+    "name": "Hibiscus Garden",
+    "description": "Hibiscus Garden (Sector 36, Chandigarh) is an 8-acre botanical park established in 1996. It is home to a rich variety of hibiscus plants (over 40 species) and other flowering shrubs. The garden's lush hedges and flowering beds offer a tranquil escape for garden lovers, with shaded paths and seasonal blooms.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 36, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.758,
+          30.73
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699281d9c6420d6ef1771"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.1,
+    "features": [
+      "Hibiscus Varieties",
+      "Botanical Layout",
+      "Shaded Walkways"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.160Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:27.975Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7948"
+    },
+    "name": "Chandigarh Hockey Stadium",
+    "description": "The Chandigarh Hockey Stadium (Sector 42) is a large field hockey venue with a capacity of about 30,000. It has hosted major national and international hockey events, and was home to the Chandigarh Dynamos and Kalinga Lancers in the Indian Hockey League. The stadium features floodlights and a synthetic turf pitch.",
+    "category": [
+      "Entertainment"
+    ],
+    "location": {
+      "address": "Sector 42, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.74583,
+          30.72889
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699281d9c6420d6ef1773"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "06:00-21:00",
+      "tuesday": "06:00-21:00",
+      "wednesday": "06:00-21:00",
+      "thursday": "06:00-21:00",
+      "friday": "06:00-21:00",
+      "saturday": "06:00-21:00",
+      "sunday": "06:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 3.8,
+    "features": [
+      "Field Hockey Events",
+      "International Matches",
+      "Seating for 30,000"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.253Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.043Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c794a"
+    },
+    "name": "Punjab Cricket Stadium (Mohali)",
+    "description": "Punjab Cricket Stadium (Sector 67, Mohali) is an international cricket stadium inaugurated in 1993. It has hosted many cricket matches, including IPL games for Kings XI Punjab. With a seating capacity of about 27,000, it is one of India's prominent cricket venues.",
+    "category": [
+      "Entertainment"
+    ],
+    "location": {
+      "address": "Sector 67, Sahibzada Ajit Singh Nagar, Punjab",
+      "city": "Mohali",
+      "state": "Punjab",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.659,
+          30.707
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699281d9c6420d6ef1775"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "06:00-22:00",
+      "tuesday": "06:00-22:00",
+      "wednesday": "06:00-22:00",
+      "thursday": "06:00-22:00",
+      "friday": "06:00-22:00",
+      "saturday": "06:00-22:00",
+      "sunday": "06:00-22:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Cricket Matches",
+      "International Venue",
+      "IPL Games"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.340Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.112Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c794c"
+    },
+    "name": "Gurudwara Nada Sahib",
+    "description": "Gurudwara Nada Sahib, located on the Chandigarh-Zirakpur highway, is a Sikh shrine commemorating Guru Gobind Singh's visit. It features a holy sarovar (tank) where devotees bathe, a langar hall serving free meals, and a gurudwara with typical Sikh architecture. It is one of the most revered gurdwaras in the region.",
+    "category": [
+      "Religious Sites"
+    ],
+    "location": {
+      "address": "NH 44, Nada Sahib, Zirakpur",
+      "city": "Zirakpur",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.88139,
+          30.69423
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699281d9c6420d6ef1777"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "04:30-21:00",
+      "tuesday": "04:30-21:00",
+      "wednesday": "04:30-21:00",
+      "thursday": "04:30-21:00",
+      "friday": "04:30-21:00",
+      "saturday": "04:30-21:00",
+      "sunday": "04:30-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.9,
+    "features": [
+      "Holy Sarovar",
+      "Community Kitchen",
+      "Pilgrimage Site"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.421Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.189Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c794e"
+    },
+    "name": "Mata Mansa Devi Temple",
+    "description": "Mata Mansa Devi Temple (near Panchkula) is a Hindu temple complex dedicated to the goddess Mansa Devi. Originally built in the 19th century, it features a tall temple tower and a sacred tree wrapped in threads (the \"wishing tree\"). Devotees tie threads on the tree after prayers, seeking wishes. The temple sees a large influx of pilgrims during festivals.",
+    "category": [
+      "Religious Sites"
+    ],
+    "location": {
+      "address": "Mansa Devi Complex, Panchkula",
+      "city": "Panchkula",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.825,
+          30.72
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef1779"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Wishing Tree",
+      "Sacred Shrine",
+      "Festival Venue"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.508Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.264Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7950"
+    },
+    "name": "Thunder Zone Amusement Park",
+    "description": "Thunder Zone (Panchkula) is a popular amusement park featuring roller coasters, water rides and family attractions. It has thrilling rides such as swings, slides and a mini water park. The park offers entertainment for all ages with several dry and wet attractions, including a small food court.",
+    "category": [
+      "Entertainment"
+    ],
+    "location": {
+      "address": "Sector 3, Panchkula",
+      "city": "Panchkula",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.781,
+          30.708
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef177b"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-17:00",
+      "tuesday": "10:00-17:00",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4,
+    "features": [
+      "Roller Coasters",
+      "Water Slides",
+      "Games Zone"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.592Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.340Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7952"
+    },
+    "name": "Fun City Water Park",
+    "description": "Fun City Water Park (Sector 36C, Chandigarh) is a large water amusement park. It features multiple water slides (e.g., Black Hole, Lazy River) and pools, including wave pools and kid-friendly splash areas. It is a popular destination for families looking to cool off during summer, with rides and play areas for all ages.",
+    "category": [
+      "Entertainment"
+    ],
+    "location": {
+      "address": "Sector 36C, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.78,
+          30.732
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef177d"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-17:00",
+      "tuesday": "10:00-17:00",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Water Slides",
+      "Wave Pool",
+      "Lazy River",
+      "Kids Pool"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.678Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.408Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7954"
+    },
+    "name": "Nexus Elante Mall",
+    "description": "Nexus Elante Mall is one of North India’s largest shopping malls, with over 200 stores. Opened in 2013, it offers international and Indian fashion brands, a large food court, a multiplex cinema, and entertainment zones. The mall also features restaurants, gaming areas and events, making it a major leisure destination.",
+    "category": [
+      "Shopping"
+    ],
+    "location": {
+      "address": "Industrial Area Phase I, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.771,
+          30.681
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef177f"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-21:00",
+      "tuesday": "10:00-21:00",
+      "wednesday": "10:00-21:00",
+      "thursday": "10:00-21:00",
+      "friday": "10:00-21:00",
+      "saturday": "10:00-21:00",
+      "sunday": "10:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.6,
+    "features": [
+      "Retail Outlets",
+      "Food Court",
+      "Cinema",
+      "Children's Play Area"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.766Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.476Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7956"
+    },
+    "name": "Kalagram Cultural Centre",
+    "description": "Kalagram (Manimajra, Chandigarh) is an open-air craft village and cultural center. It showcases Punjabi folk arts, handicrafts, and traditional crafts. Visitors can see artisans at work, shop for handloom textiles, and enjoy Punjabi cuisine at traditional 'baithak' restaurants. The center holds cultural performances and festivals celebrating Punjabi heritage.",
+    "category": [
+      "Museums"
+    ],
+    "location": {
+      "address": "Chandigarh-Panchkula Rd, Manimajra, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.82667,
+          30.70933
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef1781"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "08:00-20:00",
+      "tuesday": "08:00-20:00",
+      "wednesday": "08:00-20:00",
+      "thursday": "08:00-20:00",
+      "friday": "08:00-20:00",
+      "saturday": "08:00-20:00",
+      "sunday": "08:00-20:00"
+    },
+    "ticketPrice": {
+      "adult": 400,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 3.9,
+    "features": [
+      "Handicraft Stalls",
+      "Folk Performances",
+      "Artisan Demonstrations"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.851Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.547Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d320a9aed11b7c7958"
+    },
+    "name": "Shivalik Fossil Park",
+    "description": "Shivalik Fossil Park (Panchkula) is an open-air museum preserving fossils from the Shivalik hills. It features life-size clay models of extinct animals such as prehistoric elephants and rhinoceros, accompanied by real fossil specimens. The park educates visitors about paleontology and the prehistoric ecosystem of the region.",
+    "category": [
+      "Parks",
+      "Museums"
+    ],
+    "location": {
+      "address": "Rajiv Gandhi Museum Road, Panchkula",
+      "city": "Panchkula",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.82,
+          30.736
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef1783"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-17:00",
+      "tuesday": "Closed",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Fossil Exhibits",
+      "Prehistoric Wildlife Models",
+      "Educational Displays"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:19.932Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.618Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d420a9aed11b7c795a"
+    },
+    "name": "Capitol Complex",
+    "description": "The Capitol Complex in Sector 1, Chandigarh, is a UNESCO World Heritage ensemble designed by Le Corbusier. It includes the Assembly building, High Court, Secretariat and Open Hand Monument. The complex exemplifies modernist architecture and city planning. Visitors can tour the grounds to see the innovative design of these government buildings.",
+    "category": [
+      "Landmarks"
+    ],
+    "location": {
+      "address": "Sector 1, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.80472,
+          30.75917
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "687699291d9c6420d6ef1785"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.5,
+    "features": [
+      "Modernist Architecture",
+      "UNESCO Site",
+      "Government Buildings"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:20.012Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.687Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d420a9aed11b7c795c"
+    },
+    "name": "Tagore Theatre",
+    "description": "Tagore Theatre (Sector 18, Chandigarh) is a well-known cultural venue and theatre hall. Opened in 1964, it hosts plays, dance performances, concerts and other cultural events. The facility features a 480-seat auditorium and acoustics suitable for music and drama, making it a key hub for Chandigarh's performing arts.",
+    "category": [
+      "Entertainment"
+    ],
+    "location": {
+      "address": "18B, Sector 18, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.78953,
+          30.73305
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1787"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-17:00",
+      "tuesday": "10:00-17:00",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.6,
+    "features": [
+      "Live Performances",
+      "Cultural Events",
+      "Auditorium"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:20.103Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.758Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d420a9aed11b7c795e"
+    },
+    "name": "Le Corbusier Centre",
+    "description": "The Le Corbusier Centre (Sector 19) is housed in the old city architect’s office. It showcases original models, sketches, and documents of architect Le Corbusier who designed Chandigarh. Exhibits include plans and photographs explaining the city’s design and Le Corbusier’s vision. A nominal entry fee is charged.",
+    "category": [
+      "Museums"
+    ],
+    "location": {
+      "address": "Sector 19B, Old Architect’s Office, Madhya Marg, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.79948,
+          30.72978
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1789"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-17:00",
+      "tuesday": "Closed",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 20,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Architectural Plans",
+      "Scale Models",
+      "Exhibits on City Planning"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:20.185Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:28.961Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687633d420a9aed11b7c7960"
+    },
+    "name": "National Gallery of Portraits",
+    "description": "The National Gallery of Portraits (Sector 17, Chandigarh) features portraits, busts and photographs of Indian freedom fighters and leaders. Established in 1977, it highlights India’s struggle for independence through paintings and documents. The gallery aims to educate visitors about the freedom movement; entry is free.",
+    "category": [
+      "Museums"
+    ],
+    "location": {
+      "address": "Sector 17, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.785,
+          30.732
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef178b"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "10:00-17:00",
+      "wednesday": "10:00-17:00",
+      "thursday": "10:00-17:00",
+      "friday": "10:00-17:00",
+      "saturday": "10:00-17:00",
+      "sunday": "10:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Freedom Fighter Portraits",
+      "Historical Exhibits",
+      "Educational Displays"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T10:56:20.266Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.037Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "687694c0d14b76b433b63751"
+    },
+    "name": "Yadavindra Mughal Gardens (Pinjore)",
+    "description": "Also known as Pinjore Gardens, this 17th-century terraced complex features Mughal-style pavilions, fountains, and manicured lawns that cascade down seven levels. The annual Pinjore Heritage Festival and illuminated evening shows make it a year-round draw.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Ambala–Shimla Road, Pinjore",
+      "city": "Pinjore",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.9108,
+          30.7992
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/pinjore.jpg",
+        "altTest": "Mughal terraces at Pinjore Gardens",
+        "publicId": "pinjore_gardens_1_demo",
+        "_id": {
+          "$oid": "687694c0d14b76b433b63752"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/pinjore_main.jpg",
+    "mainImagePublicId": "pinjore_gardens_main_demo",
+    "openingHours": {
+      "monday": "07:00-22:00",
+      "tuesday": "07:00-22:00",
+      "wednesday": "07:00-22:00",
+      "thursday": "07:00-22:00",
+      "friday": "07:00-22:00",
+      "saturday": "07:00-22:00",
+      "sunday": "07:00-22:00"
+    },
+    "ticketPrice": {
+      "adult": 25,
+      "child": 10,
+      "student": 10,
+      "senior": 10
+    },
+    "rating": 4.5,
+    "features": [
+      "Terraced Fountains",
+      "Heritage Festival",
+      "Evening Illumination"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:52.539Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.107Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c0d14b76b433b63755"
+    },
+    "name": "Cactus & Succulent Botanical Garden",
+    "description": "Asia’s largest outdoor collection of cacti and succulents, this 8-hectare garden in Panchkula showcases 3,500+ species, from tiny lithops to towering euphorbia, with thematic beds and educational signage.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 5, Panchkula",
+      "city": "Panchkula",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.8531,
+          30.6989
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/cactus.jpg",
+        "altTest": "Rows of tall cacti",
+        "publicId": "cactus_garden_demo",
+        "_id": {
+          "$oid": "687694c0d14b76b433b63756"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/cactus_main.jpg",
+    "mainImagePublicId": "cactus_garden_main_demo",
+    "openingHours": {
+      "monday": "08:00-18:00",
+      "tuesday": "08:00-18:00",
+      "wednesday": "08:00-18:00",
+      "thursday": "08:00-18:00",
+      "friday": "08:00-18:00",
+      "saturday": "08:00-18:00",
+      "sunday": "08:00-18:00"
+    },
+    "ticketPrice": {
+      "adult": 10,
+      "child": 5,
+      "student": 5,
+      "senior": 5
+    },
+    "rating": 4.3,
+    "features": [
+      "Succulent Beds",
+      "Photo Spots",
+      "Guided Walks"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:52.959Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.188Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c1d14b76b433b63759"
+    },
+    "name": "Chandigarh Bird Park",
+    "description": "Set beside Sukhna Lake, this walk-through aviary recreates rainforest and wetland habitats for exotic macaws, peafowl, and 50+ indigenous bird species. Elevated mesh domes and bamboo boardwalks provide close-up viewing without cages.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sukhna Lake Front, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.811,
+          30.752
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/birdpark.jpg",
+        "altTest": "Scarlet macaws inside aviary",
+        "publicId": "bird_park_demo",
+        "_id": {
+          "$oid": "687694c1d14b76b433b6375a"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/birdpark_main.jpg",
+    "mainImagePublicId": "bird_park_main_demo",
+    "openingHours": {
+      "monday": "09:00-17:00",
+      "tuesday": "Closed",
+      "wednesday": "09:00-17:00",
+      "thursday": "09:00-17:00",
+      "friday": "09:00-17:00",
+      "saturday": "09:00-17:00",
+      "sunday": "09:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 50,
+      "child": 30,
+      "student": 30,
+      "senior": 30
+    },
+    "rating": 4.4,
+    "features": [
+      "Walk-through Aviary",
+      "Rare Species",
+      "Lakefront Setting"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:53.511Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.263Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c1d14b76b433b6375d"
+    },
+    "name": "Morni Hills Nature Trails",
+    "description": "The only hill station in Haryana, Morni Hills offers pine-clad trekking routes, panoramic viewpoints, and twin lakes (Tikkar Taal). Birdwatchers spot pheasants and Himalayan bulbuls along the forest trails. The scenic treks provide a cool retreat from the plains and are popular for weekend hikes.",
+    "category": [
+      "Tours",
+      "Parks"
+    ],
+    "location": {
+      "address": "Morni Hills, Panchkula District",
+      "city": "Morni",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.005,
+          30.6933
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/morni.jpg",
+        "altTest": "Hiking trail in Morni Hills",
+        "publicId": "morni_trails_demo",
+        "_id": {
+          "$oid": "687694c1d14b76b433b6375e"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/morni_main.jpg",
+    "mainImagePublicId": "morni_trails_main_demo",
+    "openingHours": {
+      "monday": "05:00-19:00",
+      "tuesday": "05:00-19:00",
+      "wednesday": "05:00-19:00",
+      "thursday": "05:00-19:00",
+      "friday": "05:00-19:00",
+      "saturday": "05:00-19:00",
+      "sunday": "05:00-19:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.6,
+    "features": [
+      "Scenic Treks",
+      "Twin Lakes",
+      "Bird Watching"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:53.887Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.429Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b63761"
+    },
+    "name": "Timber Trail Cable Car",
+    "description": "Ride a Swiss-made cable car 1.8 km across the Shivalik gorge to Timber Trail Heights resort in Parwanoo. The 8-minute ascent provides sweeping Himalayan foothill vistas and a cliff-top café stop.",
+    "category": [
+      "Tours"
+    ],
+    "location": {
+      "address": "NH-22, Parwanoo",
+      "city": "Parwanoo",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.9664,
+          30.8424
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/timber.jpg",
+        "altTest": "Cable car over Shivalik hills",
+        "publicId": "timber_trail_demo",
+        "_id": {
+          "$oid": "687694c2d14b76b433b63762"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/timber_main.jpg",
+    "mainImagePublicId": "timber_trail_main_demo",
+    "openingHours": {
+      "monday": "09:00-18:00",
+      "tuesday": "09:00-18:00",
+      "wednesday": "09:00-18:00",
+      "thursday": "09:00-18:00",
+      "friday": "09:00-18:00",
+      "saturday": "09:00-18:00",
+      "sunday": "09:00-18:00"
+    },
+    "ticketPrice": {
+      "adult": 30,
+      "child": 20,
+      "student": 20,
+      "senior": 20
+    },
+    "rating": 4.3,
+    "features": [
+      "Cable Car Ride",
+      "Hill-top Café"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:53.977Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.481Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b63764"
+    },
+    "name": "Mahendra Chaudhary Zoological Park (Chhatbir Zoo)",
+    "description": "Chhatbir Zoo (Sector 42, Zirakpur) is a large wildlife park with 11 sectors including tiger, herbivore and aviary exhibits. Spread over 431 hectares, it houses tigers, lions, rhinos and diverse birds. The zoo has live exhibits and conservation programs. Visitors often enjoy the safari truck ride through the large enclosures.",
+    "category": [
+      "Entertainment",
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 42, Chandigarh-Zirakpur Road, Zirakpur",
+      "city": "Zirakpur",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.811,
+          30.752
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef178d"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "09:00-17:00",
+      "tuesday": "09:00-17:00",
+      "wednesday": "09:00-17:00",
+      "thursday": "09:00-17:00",
+      "friday": "09:00-17:00",
+      "saturday": "09:00-17:00",
+      "sunday": "09:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 60,
+      "child": 30,
+      "student": 30,
+      "senior": 30
+    },
+    "rating": 4.4,
+    "features": [
+      "Tiger Safari",
+      "Reptile House",
+      "Bird Sanctuary"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.063Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.553Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b63767"
+    },
+    "name": "VR Punjab Mall",
+    "description": "Formerly North Country Mall, this 2 million-sq-ft lifestyle destination (now VR Mohali) offers a wide range of fashion and electronics brands, a large food court, an INOX multiplex, and indoor VR gaming zones.",
+    "category": [
+      "Shopping"
+    ],
+    "location": {
+      "address": "Focal Point, Phase 7, Mohali",
+      "city": "Mohali",
+      "state": "Punjab",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.6583,
+          30.7058
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef178f"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "10:00-22:00",
+      "tuesday": "10:00-22:00",
+      "wednesday": "10:00-22:00",
+      "thursday": "10:00-22:00",
+      "friday": "10:00-22:00",
+      "saturday": "10:00-22:00",
+      "sunday": "10:00-22:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.5,
+    "features": [
+      "Fashion Brands",
+      "Food Court",
+      "Multiplex Cinema",
+      "Gaming Zone"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.158Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.624Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b6376a"
+    },
+    "name": "Sector 17 Plaza",
+    "description": "Sector 17 Plaza (Chandigarh) is a central commercial and cultural hub of the city. It features shops, cafes, government offices and a large open-air amphitheatre. The plaza is known for its musical fountain and city festival events. A redevelopment project is underway to transform it into a green space.",
+    "category": [
+      "Shopping"
+    ],
+    "location": {
+      "address": "Sector 17, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.785,
+          30.732
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1791"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "All Day",
+      "tuesday": "All Day",
+      "wednesday": "All Day",
+      "thursday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day",
+      "sunday": "All Day"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.3,
+    "features": [
+      "Shopping Stalls",
+      "Street Performances",
+      "Iconic Fountain"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.245Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.694Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b6376d"
+    },
+    "name": "Gurudwara Sri Singh Shaheedan",
+    "description": "Gurudwara Sri Singh Shaheedan (Mohali) commemorates 31 Sikh soldiers who were martyred during World War I. It features a domed shrine, martyrs’ memorial pillars and a holy sarovar. The site is revered by the Sikh community and attracts devotees for daily prayers and commemorations.",
+    "category": [
+      "Religious Sites"
+    ],
+    "location": {
+      "address": "Saragarhi Marg, Sector 55, Sahibzada Ajit Singh Nagar",
+      "city": "Mohali",
+      "state": "Punjab",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.7033,
+          30.6742
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1793"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "All Day",
+      "tuesday": "All Day",
+      "wednesday": "All Day",
+      "thursday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day",
+      "sunday": "All Day"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.7,
+    "features": [
+      "Martyrs Memorial",
+      "Holy Sarovar",
+      "Gurudwara Shrine"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.332Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.764Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b63770"
+    },
+    "name": "Christ Church, Kasauli",
+    "description": "Christ Church in Kasauli is a historic Anglican church built in the 1920s. It features neo-Gothic architecture with a wooden altar and stained glass windows. Situated at an elevation of 1,905 meters, it offers scenic views of the surrounding hills. The church holds regular services and is a popular pilgrimage site for Christians in the region.",
+    "category": [
+      "Religious Sites"
+    ],
+    "location": {
+      "address": "Kasauli-Kufri Rd, Kasauli",
+      "city": "Kasauli",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.9847,
+          30.8607
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1795"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "09:00-17:00",
+      "wednesday": "09:00-17:00",
+      "thursday": "09:00-17:00",
+      "friday": "09:00-17:00",
+      "saturday": "09:00-17:00",
+      "sunday": "09:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.5,
+    "features": [
+      "Stained Glass Windows",
+      "Neo-Gothic Architecture",
+      "Hilltop Location"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.417Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.833Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b63773"
+    },
+    "name": "Kasauli Brewery & Distillery Tour",
+    "description": "Established in 1820, Kasauli Brewery (Solan Distillery) is one of India’s oldest distilleries. Guided tours explain the traditional whiskey-making process. The facility still brews their signature whiskey, and there’s a visitor center where guests can sample the local brew.",
+    "category": [
+      "Tours"
+    ],
+    "location": {
+      "address": "Kasauli Road, Solan",
+      "city": "Solan",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.8686,
+          30.9295
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1797"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "09:00-17:00",
+      "tuesday": "09:00-17:00",
+      "wednesday": "09:00-17:00",
+      "thursday": "09:00-17:00",
+      "friday": "09:00-17:00",
+      "saturday": "09:00-17:00",
+      "sunday": "09:00-17:00"
+    },
+    "ticketPrice": {
+      "adult": 10,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.2,
+    "features": [
+      "Guided Tours",
+      "Whiskey Tasting",
+      "Historic Distillery"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.502Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.901Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c2d14b76b433b63776"
+    },
+    "name": "Manki Point (Hanuman Temple)",
+    "description": "Perched on a hill in Kasauli, Manki Point has a small Shiva temple and a prominent Hanuman temple, attracting pilgrims. The hilltop location offers sweeping views of the surrounding Shivalik range. Devotees climb the hill by steps, and the temple hosts religious festivities during Hanuman Jayanti.",
+    "category": [
+      "Religious Sites"
+    ],
+    "location": {
+      "address": "Kasauli Sub-Division Road, Kasauli",
+      "city": "Kasauli",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.7984,
+          30.9075
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://via.placeholder.com/600x400?text=Attraction+Image",
+        "altTest": "Placeholder Image",
+        "publicId": "placeholder_image",
+        "_id": {
+          "$oid": "6876992a1d9c6420d6ef1799"
+        }
+      }
+    ],
+    "mainImage": "/images/placeholder.jpg",
+    "mainImagePublicId": "placeholder_public_id",
+    "openingHours": {
+      "monday": "06:00-20:00",
+      "tuesday": "06:00-20:00",
+      "wednesday": "06:00-20:00",
+      "thursday": "06:00-20:00",
+      "friday": "06:00-20:00",
+      "saturday": "06:00-20:00",
+      "sunday": "06:00-20:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.6,
+    "features": [
+      "Hilltop Shrines",
+      "Scenic Vistas",
+      "Religious Festivals"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:54.587Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:29.976Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c5d14b76b433b63778"
+    },
+    "name": "Tikkar Taal Adventure Lake",
+    "description": "A pair of interconnected lakes in Morni offering paddle-boating, zip-lining, and lakeside camping. Surrounded by forested hills, it is a popular weekend picnic and adventure spot.",
+    "category": [
+      "Parks",
+      "Tours"
+    ],
+    "location": {
+      "address": "Tikkar Taal Road, Morni",
+      "city": "Morni",
+      "state": "Haryana",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76,
+          30.6532
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/tikkar.jpg",
+        "altTest": "Boating at Tikkar Taal",
+        "publicId": "tikkar_taal_demo",
+        "_id": {
+          "$oid": "687694c5d14b76b433b63782"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/tikkar_main.jpg",
+    "mainImagePublicId": "tikkar_taal_main_demo",
+    "openingHours": {
+      "monday": "08:00-18:00",
+      "tuesday": "08:00-18:00",
+      "wednesday": "08:00-18:00",
+      "thursday": "08:00-18:00",
+      "friday": "08:00-18:00",
+      "saturday": "08:00-18:00",
+      "sunday": "08:00-18:00"
+    },
+    "ticketPrice": {
+      "adult": 30,
+      "child": 20,
+      "student": 20,
+      "senior": 20
+    },
+    "rating": 4.3,
+    "features": [
+      "Boating",
+      "Zip-line",
+      "Camping"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:57.206Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:30.189Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c5d14b76b433b63785"
+    },
+    "name": "Chandigarh War Memorial",
+    "description": "Set amidst the Bougainvillea Garden, this granite memorial lists the names of 8,500 soldiers from Punjab, Haryana, Himachal and Chandigarh martyred since 1947. Eternal flames and landscaped paths create a solemn atmosphere.",
+    "category": [
+      "Landmarks"
+    ],
+    "location": {
+      "address": "Sector 3, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.7849,
+          30.7484
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/war_memorial.jpg",
+        "altTest": "Chandigarh War Memorial walls",
+        "publicId": "war_memorial_demo",
+        "_id": {
+          "$oid": "687694c5d14b76b433b63786"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/war_memorial_main.jpg",
+    "mainImagePublicId": "war_memorial_main_demo",
+    "openingHours": {
+      "monday": "05:00-21:00",
+      "tuesday": "05:00-21:00",
+      "wednesday": "05:00-21:00",
+      "thursday": "05:00-21:00",
+      "friday": "05:00-21:00",
+      "saturday": "05:00-21:00",
+      "sunday": "05:00-21:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.4,
+    "features": [
+      "Eternal Flame",
+      "Martyrs Wall",
+      "Garden Setting"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:57.547Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:30.390Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c6d14b76b433b63789"
+    },
+    "name": "Garden of Medicinal Plants",
+    "description": "Dedicated to Ayurveda, this Sector 26 garden cultivates 75+ medicinal herbs like ashwagandha and brahmi. Interpretive boards explain each plant’s therapeutic uses.",
+    "category": [
+      "Parks"
+    ],
+    "location": {
+      "address": "Sector 26, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.8126,
+          30.7298
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/medicinal.jpg",
+        "altTest": "Herb beds at Medicinal Garden",
+        "publicId": "medicinal_garden_demo",
+        "_id": {
+          "$oid": "687694c6d14b76b433b6378a"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/medicinal_main.jpg",
+    "mainImagePublicId": "medicinal_garden_main_demo",
+    "openingHours": {
+      "monday": "05:00-19:00",
+      "tuesday": "05:00-19:00",
+      "wednesday": "05:00-19:00",
+      "thursday": "05:00-19:00",
+      "friday": "05:00-19:00",
+      "saturday": "05:00-19:00",
+      "sunday": "05:00-19:00"
+    },
+    "ticketPrice": {
+      "adult": 0,
+      "child": 0,
+      "student": 0,
+      "senior": 0
+    },
+    "rating": 4.1,
+    "features": [
+      "Herbal Beds",
+      "Educational Signage",
+      "Quiet Walks"
+    ],
+    "featured": false,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:58.037Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:30.458Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "687694c6d14b76b433b6378d"
+    },
+    "name": "Fateh Burj (Banda Singh Bahadur Memorial)",
+    "description": "Standing 328 ft tall, this victory tower in Chappar Chiri marks Sikh General Banda Singh Bahadur’s 1710 defeat of the Mughals. Panoramic elevators lead to an observation deck overlooking the Mohali plains.",
+    "category": [
+      "Landmarks"
+    ],
+    "location": {
+      "address": "Chappar Chiri-Kharar Road, Mohali",
+      "city": "Mohali",
+      "state": "Punjab",
+      "country": "India",
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          76.6583,
+          30.7058
+        ]
+      }
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/demo/image/upload/v1/fateh_burj.jpg",
+        "altTest": "Night view of Fateh Burj",
+        "publicId": "fateh_burj_demo",
+        "_id": {
+          "$oid": "687694c6d14b76b433b6378e"
+        }
+      }
+    ],
+    "mainImage": "https://res.cloudinary.com/demo/image/upload/v1/fateh_burj_main.jpg",
+    "mainImagePublicId": "fateh_burj_main_demo",
+    "openingHours": {
+      "monday": "09:00-18:00",
+      "tuesday": "09:00-18:00",
+      "wednesday": "09:00-18:00",
+      "thursday": "09:00-18:00",
+      "friday": "09:00-18:00",
+      "saturday": "09:00-18:00",
+      "sunday": "09:00-18:00"
+    },
+    "ticketPrice": {
+      "adult": 40,
+      "child": 20,
+      "student": 25,
+      "senior": 25
+    },
+    "rating": 4.5,
+    "features": [
+      "Observation Deck",
+      "Light Show",
+      "Historical Panels"
+    ],
+    "featured": true,
+    "reviews": [],
+    "isDeleted": false,
+    "created_on": {
+      "$date": "2025-07-15T17:49:58.376Z"
+    },
+    "updated_on": {
+      "$date": "2025-07-17T06:04:30.534Z"
+    },
+    "__v": 0
+  }
+]

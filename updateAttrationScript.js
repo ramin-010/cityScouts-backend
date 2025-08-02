@@ -9,10 +9,15 @@ const run = async () => {
     await mongoose.connect(process.env.MONGO_URI);
     console.log('✅ Connected to MongoDB');
 
+
     // Rename `featured` to `isFeatured` in all documents where it exists
     const result = await Model.updateMany(
-      { },
-      { $set: { isFeatured: false } }
+      {}, // Match all documents
+      { 
+        $set: { 
+          mainImage: '#'
+        } 
+      }
     );
 
     console.log(`🎉 Renamed field in ${result.modifiedCount} documents.`);

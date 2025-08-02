@@ -18,7 +18,6 @@ A robust backend REST API for the CityScouts application, built with Node.js, Ex
 - [Environment Setup](#%EF%B8%8F-environment-variables)
 - [Getting Started](#-getting-started)
 - [API Documentation](#-api-documentation)
-- [Testing](#-testing)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -186,12 +185,6 @@ Authorization: Bearer <your_token>
 - **express-mongo-sanitize** to prevent NoSQL injection
 - **cors** to enable secure cross-origin requests
 
-## 🧪 Testing
-
-Run tests using:
-```bash
-npm test
-```
 
 ## 🚀 Deployment
 

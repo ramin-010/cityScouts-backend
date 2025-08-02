@@ -4,6 +4,7 @@ const jwt = require('jsonwebtoken')
 
 const authMiddleware = async(req, res , next) =>{
     let token;
+   
     try{        
         token = req.cookies?.token;
         if (!token) {
@@ -66,4 +67,18 @@ const dashboardAccess = (req, res, next) =>{
 }
 
 
-module.exports = {authMiddleware, isAdmin, isContributor,dashboardAccess}
+const DontAllowRecruiterToChangePass = (req, res, next) =>{
+    console.log("this is the id in dd", req.params.id)
+   try{
+    const user = req.user;
+    if(user.role === 'recruiter'){
+        throw new ErrorResponse(404, "Recruiter Profile Cannot be Modified")
+    }
+    next()
+   }catch(err){
+        next(err)
+   }
+}
+
+
+module.exports = {authMiddleware, isAdmin, isContributor,dashboardAccess, DontAllowRecruiterToChangePass}

@@ -3,11 +3,11 @@ const router = express.Router();
 const upload = require('../middlewares/multer')
 
 const {updateProfile, adminGetUsers, setUserRole,addFavorite,deleteFavorites} = require('../controllers/user.controller')
-const {authMiddleware, isAdmin, isContributor, dashboardAccess} = require('../middlewares/auth')
+const {authMiddleware, isAdmin, isContributor, dashboardAccess, DontAllowRecruiterToChangePass} = require('../middlewares/auth')
 
 
 
-router.post('/updateProfile/:id', authMiddleware ,upload.single('photo'), updateProfile);
+router.put('/updateProfile/:id', authMiddleware, DontAllowRecruiterToChangePass ,upload.single('photo'), updateProfile);
 
 router.get('/admin/all',authMiddleware ,dashboardAccess, adminGetUsers);
 

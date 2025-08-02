@@ -6,6 +6,7 @@ const authMiddleware = async(req, res , next) =>{
     let token;
    
     try{        
+        console.log("form the auth middle ware", req.body)
         token = req.cookies?.token;
         if (!token) {
             console.log("No token found in cookies");
@@ -69,6 +70,7 @@ const dashboardAccess = (req, res, next) =>{
 
 const DontAllowRecruiterToChangePass = (req, res, next) =>{
     console.log("this is the id in dd", req.params.id)
+    console.log("this is req body", req.body)
    try{
     const user = req.user;
     if(user.role === 'recruiter'){

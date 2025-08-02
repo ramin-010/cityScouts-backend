@@ -27,7 +27,7 @@ const UserSchema = new mongoose.Schema({
     },
     mainImage:{
         type: String,
-        default: null
+        default: ''
     },
     mainImagePublicId :{
         type : String ,

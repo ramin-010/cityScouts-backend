@@ -7,7 +7,7 @@ const {authMiddleware, isAdmin, isContributor, dashboardAccess, DontAllowRecruit
 
 
 
-router.put('/updateProfile/:id', authMiddleware, DontAllowRecruiterToChangePass ,upload.single('photo'), updateProfile);
+router.put('/updateProfile/:id', authMiddleware, DontAllowRecruiterToChangePass ,upload.single('image'), updateProfile);
 
 router.get('/admin/all',authMiddleware ,dashboardAccess, adminGetUsers);
 

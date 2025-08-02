@@ -3,10 +3,30 @@ const {uploadToCloud, deleteFromCloud} = require('../utils/uploadImage');
 const User = require('../models/User');
 const {getOne, adminGetAll,adminGetOne, createOne, updateOne, hardDeleteOne, softDeletOne} = require('../utils/crudFactory')
 
+const emailCheck = async (email) => {
+    try {
+      const response = await axios.get(
+        `https://emailvalidation.abstractapi.com/v1/?api_key=${process.env.Email_Validate_Api}&email=${email}`
+      );
+  
+      const data = response.data;
+  
+      const result =
+        data.deliverability === "DELIVERABLE" &&
+        data.is_valid_format?.value &&
+        data.is_mx_found?.value &&
+        data.is_smtp_valid?.value;
+  
+      return result;
+    } catch (err) {
+      return false;
+    }
+  };
 
 const updateProfile = async(req, res, next) =>{  //left
     try{
-        const {name , email, password} = req.body;   
+        const {name , email, password} = req.body;  
+        console.log(name, email , password) 
         const user = await User.findById(req.params.id).select('+password');
 
         if (name) {
@@ -21,6 +41,10 @@ const updateProfile = async(req, res, next) =>{  //left
             if (email === user.email) {
                     throw new ErrorResponse(400, 'Email is same as before');
             }
+            const isVerified = await emailCheck(email);
+            if(!isVerified){
+                throw new ErrorResponse(500, "Please enter a valid email address")
+            }
             user.email = email;
         }
 
@@ -33,7 +57,8 @@ const updateProfile = async(req, res, next) =>{  //left
             }
         }
         if(req.file){
-            user.photoURL = await uploadToCloud(req.file.buffer, 'user_profiles');
+            const {url}= await uploadToCloud(req.file.buffer, 'user_profiles');
+            user.mainImage = url;
         }
 
         await user.save();
@@ -46,7 +71,7 @@ const updateProfile = async(req, res, next) =>{  //left
         if(err.name === 'ValidationError'){
             const message = Object.values(err.errors).map(e => e.message);
 
-            next(new ErrorResponse(message.join(', '), 400))
+            next(new ErrorResponse(400,message.join(', ')))
         }else{
             next(err);
         }

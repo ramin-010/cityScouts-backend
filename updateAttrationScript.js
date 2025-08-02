@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-const Model = require('./models/Dining'); // adjust path if needed
+const Model = require('./models/User'); // adjust path if needed
 
 dotenv.config(); // load .env for MONGO_URI
 

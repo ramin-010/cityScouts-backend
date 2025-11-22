@@ -20,7 +20,7 @@ const searchRouter = require('./routes/search.routes')
 app.use(express.json());
 app.use(morgan('dev'));
 app.use(cookieParser());
-
+            
 const allowOrigin = [
     "http://localhost:3000",
     'http://localhost:5173',
@@ -49,7 +49,7 @@ app.use('/api/users', userRouter);
 app.use('/api/auth',authRouter);
 app.use('/api/attractions',attractionRouter)
 app.use('/api/dining',diningRouter);
-app.use('/api/v1', searchRouter); // Search API endpoint
+app.use('/api/v1', searchRouter); 
 app.use('/api/events', eventRouter)
 
 //erro handler middleware
